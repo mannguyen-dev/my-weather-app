@@ -1,11 +1,16 @@
 {
   "expo": {
-    "name": "my-weather-app",
-    "slug": "my-weather-app",
+    "name": "mn-weather-app",
+    "slug": "mn-weather-app",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b15afd93-7c00-43e9-b2d5-2562e31b1248"
+      }
+    }
   },
-  "name": "my-weather-app"
+  "name": "mn-weather-app"
 }
